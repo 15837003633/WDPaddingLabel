@@ -1,0 +1,6 @@
+framework module Pods_WDPaddingLabel_Tests {
+  umbrella header "Pods-WDPaddingLabel_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

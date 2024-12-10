@@ -1,0 +1,6 @@
+framework module WDPaddingLabel {
+  umbrella header "WDPaddingLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

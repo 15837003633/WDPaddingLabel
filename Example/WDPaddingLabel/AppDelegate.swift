@@ -7,6 +7,7 @@
 //
 
 import UIKit
+@_exported import SnapKit
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {

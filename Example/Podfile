@@ -4,6 +4,7 @@ platform :ios, '10.0'
 
 target 'WDPaddingLabel_Example' do
   pod 'WDPaddingLabel', :path => '../'
+  pod 'SnapKit'
 
   target 'WDPaddingLabel_Tests' do
     inherit! :search_paths
